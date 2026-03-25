@@ -1,0 +1,21 @@
+*{
+    background-color: #f0f0f0f0;
+}
+body{
+ display: flex;
+ flex-direction: column;
+ background-color: #f0f0f0;
+ align-items: center;
+}
+
+
+
+.divcolor{
+    width: 600px;
+    height: 900px;
+ display: flex;
+ flex-direction: column;
+ background-color: rgb(184, 184, 184);
+ align-items: center;
+}
+
